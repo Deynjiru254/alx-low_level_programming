@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
  * main -prints name of compilation file with new file
- * Return ; 0
+ * Return : 0
  * */
-int main (void)
+int main(void)
 {
 	printf("%s\n", _BASE_FILE_);
 	return (0);
