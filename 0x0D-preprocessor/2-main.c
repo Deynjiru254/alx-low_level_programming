@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main -prints name of compilation file with new file
- * Return : 0
+ * main - prints name of compilation file with new file
+ * Return: 0
  * */
 int main(void)
 {
